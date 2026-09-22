@@ -1,16 +1,22 @@
-## Hi there 👋
+Hi, I'm Mehedi 👋
 
-<!--
-**Mehedihasanb/Mehedihasanb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Information Technology student at Inholland University of Applied Sciences, with an interest in Software Development, Full-Stack Development, Backend Development, and AI technologies.
 
-Here are some ideas to get you started:
+🎓 Currently
+HBO Information Technology Student
+Software Engineer Intern at Domits (a hospitality-management platform) — started September 2026
+Exploring Full-Stack Development, Backend Development, and AI-driven applications
+🧰 Skills
+Category	Stack
+Languages	Java, C#, PHP, JavaScript, TypeScript
+Frameworks	Spring Boot, ASP.NET MVC, Vue.js, React Native
+Backend & Databases	Node.js, AWS Lambda, PostgreSQL, SQL (MySQL, SQL Server), MongoDB
+Cloud & DevOps	Microsoft Azure, Amazon Web Services, Docker, Git, GitHub Actions, Amplify
+Testing	Jest, Cypress
+Styling	SASS/SCSS
+Tooling	TypeORM, npm
+📫 Contact
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Email LinkedIn
+
+<!-- Optional: add a GitHub stats card, e.g. ![Mehedi's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default) -->
