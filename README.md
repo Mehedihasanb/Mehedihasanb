@@ -1,4 +1,3 @@
-[README(2).md](https://github.com/user-attachments/files/32523304/README.2.md)
 ## Hi, I'm Mehedi 👋
 
 Information Technology student at Inholland University of Applied Sciences, with an interest in Software Development, Full-Stack Development, Backend Development, and AI technologies.
